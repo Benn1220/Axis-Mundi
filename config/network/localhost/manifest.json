@@ -1,7 +1,7 @@
 {
     "serverAddress": "Apollo.net/internal",
     "serverName": "Axis Mundi Network",
-    "iconName": "MundiLogo.webp",
+    "iconName": "MundiLogo.png",
     "terminalID": "TID3865",
     "defaultUser": {
         "userId": "Apollo,Crew",
