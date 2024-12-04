@@ -1,16 +1,16 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "Apollo.net/internal",
+    "serverName": "Axis Mundi Network",
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "Apollo,Crew",
+        "password": "Ave",
+        "userName": "Crew Member"
     },
     "initialHistory": {
         "user": [
-            "login admin@admin"
+            "login Apollo,Crew@Ave"
         ],
         "admin": [
             "ping fbi.gov"
