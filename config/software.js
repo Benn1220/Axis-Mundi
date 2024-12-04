@@ -40,6 +40,11 @@ function artifact( args ) {
 }
 
 const DWEETS = {
+    1: () => dweet( ( t, x ) => { // FROM: https://www.dwitter.net/d/888
+        if (t<1/60)c.addEventListener("mousemove",(e)=>
+x.fillRect(e.x*3,e.y*3,5,5));
+    } ),
+ 
     888: () => dweet( ( t, x ) => { // FROM: https://www.dwitter.net/d/888
         for ( let i = 0; i < 300; i++ ) {
             for ( let j = 0; j < 6; j++ ) {
