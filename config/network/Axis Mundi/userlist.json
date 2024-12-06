@@ -1,0 +1,31 @@
+[
+    {
+        "userId": "guest",
+        "password": "",
+        "userName": "guest"
+    },
+
+    {
+        "userId": "P1",
+        "password": "",
+        "userName": "P2"
+    },
+
+    {
+        "userId": "P2",
+        "password": "",
+        "userName": "P2"
+    },
+
+    {
+        "userId": "P3",
+        "password": "",
+        "userName": "P3"
+    },
+
+    {
+        "userId": "P4",
+        "password": "",
+        "userName": "P4"
+    }
+]

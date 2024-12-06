@@ -1,0 +1,29 @@
+{
+    "year": "10527",
+    "serverAddress": "Axis Mundi",
+    "serverName": "Axis Mundi Network",
+    "iconName": "mundilogo.png",
+    "terminalID": "TID3865",
+    "defaultUser": {
+        "userId": "Apollo,Crew",
+        "password": "",
+        "userName": "Guest"
+    },
+    "initialHistory": {
+        "Guest": [
+            "read notice"
+        ],
+        "P1": [
+            "read brief:P1"
+        ],
+        "P2": [
+            "read brief:P2"
+        ],
+        "P3": [
+            "read brief:P3"
+        ],
+        "P4": [
+            "read brief:P4"
+        ]
+    }
+}
