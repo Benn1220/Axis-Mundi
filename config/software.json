@@ -32,7 +32,13 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
-    "artifact": {},
-    "decrypt": {},
-    "identify": {}
+    "artifact": {
+        "location": ["127.0.0.1", "localhost"],
+    },
+    "decrypt": {
+        "location": ["127.0.0.1", "localhost"],
+    },
+    "identify": {
+        "location": ["127.0.0.1", "localhost"],
+    }
 }
