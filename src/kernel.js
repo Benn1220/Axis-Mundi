@@ -1,5 +1,5 @@
 // Global scope variables
-const defaultServerAddress = "Axis Mundi";
+const defaultServerAddress = "Axis_Mundi";
 let serverDatabase = {};
 let userDatabase = {};
 let userList = [];
