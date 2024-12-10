@@ -1,6 +1,6 @@
 {
     "year": "10527",
-    "serverAddress": "axismundi",
+    "serverAddress": "localhost",
     "serverName": "Axis Mundi Network",
     "iconName": "mundilogo.png",
     "terminalID": "TID3865",
