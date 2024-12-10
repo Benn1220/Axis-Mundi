@@ -7,10 +7,10 @@
     "defaultUser": {
         "userId": "Apollo,Crew",
         "password": "",
-        "userName": "Guest"
+        "userName": "guest"
     },
     "initialHistory": {
-        "Guest": [
+        "guest": [
             "read notice"
         ],
         "P1": [
