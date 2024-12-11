@@ -1,5 +1,5 @@
 // Global scope variables
-const defaultServerAddress = "localhost";
+const defaultServerAddress = "axismundi";
 let serverDatabase = {};
 let userDatabase = {};
 let userList = [];
